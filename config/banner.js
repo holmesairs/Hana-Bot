@@ -15,8 +15,8 @@ function displayBanner() {
   console.log(
     colors.style("===============================================", "border")
   );
-  console.log(colors.style("GitHub  : https://github.com/Galkurta", "link"));
-  console.log(colors.style("Telegram: https://t.me/galkurtarchive", "link"));
+  console.log(colors.style("==============================================", "link"));
+  console.log(colors.style("==============================================", "link"));
   console.log(
     colors.style("===============================================\n", "border")
   );
