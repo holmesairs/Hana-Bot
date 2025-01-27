@@ -195,7 +195,7 @@ class HanafudaClient {
 
       logger.info(
         this.colors.style(
-          `Network Base Fee: ${baseFeeGwei.toFixed(2)} Gwei, ` +
+          `Network Hype Fee: ${baseFeeGwei.toFixed(2)} Gwei, ` +
             `Current Gas Price: ${currentGasPriceGwei.toFixed(2)} Gwei`,
           "info"
         )
