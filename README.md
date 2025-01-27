@@ -40,7 +40,7 @@ This is an automation tool for interacting with the Hanafuda platform on the Bas
 
 ```bash
 git clone https://github.com/holmesairs/Hana-Bot.git
-cd Hana-BOT
+cd Hana-Bot
 ```
 
 2. Install dependencies:
