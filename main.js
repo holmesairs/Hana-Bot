@@ -24,12 +24,11 @@ const NETWORKS = {
     DEFAULT_AMOUNT: "0.0000000000001",
   },
   POLYGON: {
-    name: "Polygon",
-    RPC_URL: "https://polygon-rpc.com",
-    CHAIN_ID: 137,
-    CONTRACT_ADDRESS: "0xC5bf05cD32a14BFfb705Fb37a9d218895187376c",
-    EXPLORER_URL: "https://polygonscan.com",
-    GAS_PRICE: "0.00000003",
+    name: "Hyperliquid EVM Testnet",
+    RPC_URL: "https://api.hyperliquid-testnet.xyz/evm",
+    CHAIN_ID: 998,
+    CONTRACT_ADDRESS: "0x9436E82E06DE8Ff202C870dD9eEa22F56c5Ac25A",
+    EXPLORER_URL: "https://testnet.purrsec.com",
     DEFAULT_AMOUNT: "0.0000000000001",
   },
 };
