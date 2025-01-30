@@ -15,8 +15,8 @@ function displayBanner() {
   console.log(
     colors.style("===============================================", "border")
   );
-  console.log(colors.style("==============================================", "link"));
-  console.log(colors.style("==============================================", "link"));
+  console.log(colors.style("======== RECODEAN BANG BY HOLMESAIRS ========", "link"));
+  console.log(colors.style("======== https://t.me/AirdropHoka ========", "link"));
   console.log(
     colors.style("===============================================\n", "border")
   );
